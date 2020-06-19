@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/findinterest/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/findinterest/static/js/main.6eb5f51a.chunk.js",
+    "main.js.map": "/findinterest/static/js/main.6eb5f51a.chunk.js.map",
+    "runtime-main.js": "/findinterest/static/js/runtime-main.c752832e.js",
+    "runtime-main.js.map": "/findinterest/static/js/runtime-main.c752832e.js.map",
+    "static/css/2.09d1976d.chunk.css": "/findinterest/static/css/2.09d1976d.chunk.css",
+    "static/js/2.af7ef796.chunk.js": "/findinterest/static/js/2.af7ef796.chunk.js",
+    "static/js/2.af7ef796.chunk.js.map": "/findinterest/static/js/2.af7ef796.chunk.js.map",
+    "index.html": "/findinterest/index.html",
+    "precache-manifest.a3bb7ec618eed11e6def0eb139c68ed4.js": "/findinterest/precache-manifest.a3bb7ec618eed11e6def0eb139c68ed4.js",
+    "service-worker.js": "/findinterest/service-worker.js",
+    "static/css/2.09d1976d.chunk.css.map": "/findinterest/static/css/2.09d1976d.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/findinterest/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.af7ef796.chunk.js.LICENSE.txt": "/findinterest/static/js/2.af7ef796.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c752832e.js",
+    "static/css/2.09d1976d.chunk.css",
+    "static/js/2.af7ef796.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.6eb5f51a.chunk.js"
+  ]
+}
